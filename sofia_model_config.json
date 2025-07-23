@@ -1,0 +1,35 @@
+{
+  "vocab_size": 5000,
+  "max_sequence_length": 50,
+  "sentiment_classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "emotion_classes": [
+    "Admiration",
+    "Affection",
+    "Amusement",
+    "Anger",
+    "Anxiety",
+    "Excitement",
+    "Frustration",
+    "Gratitude",
+    "Joy",
+    "Love",
+    "Sadness",
+    "Worry"
+  ],
+  "setting_classes": [
+    "academic",
+    "casual",
+    "family",
+    "gaming",
+    "professional",
+    "romantic",
+    "social_media"
+  ],
+  "model_version": "2.0",
+  "training_date": "2025-07-21T17:42:34.251932",
+  "word_index_size": 698
+}
